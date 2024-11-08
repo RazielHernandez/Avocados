@@ -17,7 +17,7 @@ Avocados recipes is an application developed for learning purposes, the goal is 
 - **Animation**: Simple but beautiful animations. 
 
 ## 🔧 Technologies Used
-Africa is built using the following main technologies:
+Avocados recipes is built using the following main technologies:
 
 | Technology       | Description                                       |
 | ---------------- | ------------------------------------------------- |
