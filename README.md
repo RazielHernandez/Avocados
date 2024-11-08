@@ -9,6 +9,23 @@
 ## 📱 About the App
 Avocados recipes is an application developed for learning purposes, the goal is create an recipes App but stylized and include more info to the user.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Media/home_page.png" alt="Home Screen" width="200"/>
+  <img src="Media/recipes_screens.png" alt="Recipes Main Screen" width="200"/>
+  <img src="Media/recipes_recipes.png" alt="Recipes List" width="200"/>
+  <img src="Media/recipes_details.png" alt="Recipes Details View" width="200"/>
+  <img src="Media/dark_mode.png" alt="Dark Mode" width="200"/>
+</p>
+
+## 📸 iPad
+
+<p align="center">
+  <img src="Media/ipad_home_screen_dark.png" alt="iPad Home Screen" width="250"/>
+  <img src="Media/ipad_recipes_screen.png" alt="iPad Recipes Screen" width="250"/>
+</p>
+
 ### ✨ Features
 - **Stylized user interface**: A user interface designed to captivate users with a customized color palette.
 - **Sheets**: Use of sheets to show recipes.
